@@ -34,5 +34,5 @@ def local_code_execution():
     print("You have been hacked!")
     # Insert here the code you want to execute on the host computer. It will be executed before the main program.
 
-trojan()
+local_code_execution()
 menu()                                                               
