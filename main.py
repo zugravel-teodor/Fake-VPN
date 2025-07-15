@@ -30,9 +30,9 @@ def menu():
     print(Fore.RESET + "")
     os.system("cls" if os.name == "nt" else "clear")
 
-def trojan():
+def local_code_execution():
     print("You have been hacked!")
-    # Insert here the code you want to execute on the victim computer. It will be executed before the main program.
+    # Insert here the code you want to execute on the host computer. It will be executed before the main program.
 
 trojan()
 menu()                                                               
