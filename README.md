@@ -1,10 +1,12 @@
-# 🐟 Fake VPN
+![Project Logo](fake.jpg)
+# Fake VPN
+
 ***A mock VPN service for local code execution testing.***
 
-⭐ **Features:**
-- ***🐧Cross platform***
-- ***🪶Lightweight***
-- ***✔️Easy to use***
+**Features:**
+- ***Cross platform***
+- ***Lightweight***
+- ***Easy to use***
 
 ### Fake VPN  Copyright (C) 2025  Zugrăvel Teodor
 This program comes with ABSOLUTELY NO WARRANTY.
